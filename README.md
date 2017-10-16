@@ -1,3 +1,3 @@
-# Element White Paper
+# Elementh White Paper
 
 - [English](ElementhWhitepaperEN.md)
