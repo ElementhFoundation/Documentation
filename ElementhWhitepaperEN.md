@@ -197,6 +197,35 @@ In general, there are two types of applications built on top of Elementh. The fi
 
 Elementh blockchain has its own built-in currency, elementh (EEE), which serves two purposes, firstly, it is to provide a primary level of liquidity, which in turn ensures an efficient exchange between different types of digital assets, and, secondly, more importantly, for payment of transaction fees.
 
+Token and ICO information: EEE, ERC-20 standard<br />
+Total supply: 303 000 000 EEE<br />
+Token distribution:<br />
+217 500 000 (71,78%) EEE - investors<br />
+45 000 000 (14,85%) EEE - team<br />
+40 500 000 (13,37%) EEE - partners and advisors<br />
+<br />
+Closed pre-Sale start date: 15 January 2018<br />
+Closed pre-Sale end date: 1 February 2018<br />
+Closed pre-Sale soft cap: -<br />
+Closed pre-Sale hard cap: 1 500 ETH<br />
+Closed pre-Sale price: 1 EEE = 0.0001 ETH<br />
+Closed pre-Sale bonuses scheme: 50% Tokens<br />
+<br />
+pre-ICO start date: 1 February 2018<br />
+pre-ICO end date: 14 February 2018<br />
+pre-ICO soft cap: -<br />
+pre-ICO hard cap: 1 500 ETH minus received in closed pre-Sale stage<br />
+pre-ICO price: 1 EEE = 0.0001 ETH<br />
+pre-ICO bonus scheme: 1st day: 30% Tokens,  2nd day: 15% Tokens<br />
+<br />
+ICO start date: 1 March 2018<br />
+ICO end date: 14 March 2018<br />
+ICO soft cap: 10 000 ETH<br />
+ICO hard cap: 30 000 ETH<br />
+ICO price: 1 EEE = 0.0002 ETH<br />
+ICO bonus scheme: 1st day: 30% Tokens,  2nd day: 15% Tokens<br />
+
+
 ### Conclusion
 
 The Elementh protocol was originally conceived as an enhanced version of the crypto currency, providing advanced functions for e-commerce such as ownership of the product, financial contracts, etc. The Elementh protocol will not support any of the applications directly, but the presence of the Turing-complete programming language means that theoretically arbitrary contracts can be created for any type of transactions and applications. Even more interesting is that Elementh protocol has gone much further than the usual crypto-currency. The protocol that can be used to create decentralized marketplaces, identify counterfeit products, and much more, has a huge potential to significantly improve the efficiency of the e-commerce industry and can give a huge boost to the development of other peer-to-peer protocols by adding the first economic layer.
