@@ -204,22 +204,22 @@ Token distribution:<br />
 45 000 000 (14,85%) EEE - team<br />
 40 500 000 (13,37%) EEE - partners and advisors<br />
 <br />
-Closed pre-Sale start date: 15 January 2018<br />
-Closed pre-Sale end date: 1 February 2018<br />
+Closed pre-Sale start date: 15 January 2018 00:00 UTC<br />
+Closed pre-Sale end date: 31 January 2018 23:59 UTC<br />
 Closed pre-Sale soft cap: -<br />
 Closed pre-Sale hard cap: 1 500 ETH<br />
 Closed pre-Sale price: 1 EEE = 0.0001 ETH<br />
 Closed pre-Sale bonuses scheme: 50% Tokens<br />
 <br />
-pre-ICO start date: 1 February 2018<br />
-pre-ICO end date: 14 February 2018<br />
+pre-ICO start date: 1 February 2018 00:00 UTC<br />
+pre-ICO end date: 14 February 2018 23:59 UTC<br />
 pre-ICO soft cap: -<br />
 pre-ICO hard cap: 1 500 ETH minus received in closed pre-Sale stage<br />
 pre-ICO price: 1 EEE = 0.0001 ETH<br />
 pre-ICO bonus scheme: 1st day: 30% Tokens,  2nd day: 15% Tokens<br />
 <br />
-ICO start date: 1 March 2018<br />
-ICO end date: 1 April 2018<br />
+ICO start date: 1 March 2018 00:00 UTC<br />
+ICO end date: 31 March 2018 23:59 UTC<br />
 ICO soft cap: 10 000 ETH<br />
 ICO hard cap: 30 000 ETH<br />
 ICO price: 1 EEE = 0.0002 ETH<br />
