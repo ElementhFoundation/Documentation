@@ -211,12 +211,12 @@ Private Pre-Sale hard cap: 1 500 ETH<br />
 Private Pre-Sale price: 1 EEE = 0.0001 ETH<br />
 Private Pre-Sale bonuses scheme: 50% Tokens<br />
 <br />
-pre-ICO start date: 1 February 2018 00:00 UTC<br />
-pre-ICO end date: 14 February 2018 23:59 UTC<br />
-pre-ICO soft cap: -<br />
-pre-ICO hard cap: 1 500 ETH minus received in Private Pre-Sale stage<br />
-pre-ICO price: 1 EEE = 0.0001 ETH<br />
-pre-ICO bonus scheme: 1st day: 30% Tokens,  2nd day: 15% Tokens<br />
+Pre-ICO start date: 1 February 2018 00:00 UTC<br />
+Pre-ICO end date: 14 February 2018 23:59 UTC<br />
+Pre-ICO soft cap: -<br />
+Pre-ICO hard cap: 1 500 ETH minus received in Private Pre-Sale stage<br />
+Pre-ICO price: 1 EEE = 0.0001 ETH<br />
+Pre-ICO bonus scheme: 1st day: 30% Tokens,  2nd day: 15% Tokens<br />
 <br />
 ICO start date: 1 March 2018 00:00 UTC<br />
 ICO end date: 31 March 2018 23:59 UTC<br />
