@@ -31,6 +31,12 @@ Elementh has absorbed the best achievements of recent years in the field of bloc
    - [The System of Tokens](#the-system-of-tokens)
    * [Decentralized Goods Data Storage](#decentralized-goods-data-storage)
    - [Case Study](#case-study)
+   * [Partners](#partners)
+   - [Team](#team)
+   * [Advisors](#advisors)
+   - [Market](#market)
+   * [Competitors](#competitors)
+   - [Product](#product)
  * **[Applications](#applications)**
    - [Currency and Issue](#currency-and-issue)
  * **[Conclusion](#conclusion)**
@@ -224,6 +230,120 @@ ICO soft cap: 10 000 ETH<br />
 ICO hard cap: 30 000 ETH<br />
 ICO price: 1 EEE = 0.0002 ETH<br />
 ICO bonus scheme: 1st day: 30% Tokens,  2nd day: 15% Tokens<br />
+
+
+### Partners
+
+Since 2012 we have a working business in Russia called [Miiix](http://miiix.org/). It's working right now, we have more than 200 online stores and marketplaces working with us. One of these stores was Ulmart and we made a connector to SAP Hybris, so that they can use the matched nomenclature of goods for their marketplace. As soon as Ulmart has business problems right now, this connector was not implemented fully in their business. We also discussed with SAP and SAP Hybris in Russia the opportunity to PR this solution to other SAP customers worldwide. In 2018 we're going to participate in SAP COIL program to test everything and use this solution at SAP store.
+
+One of Miiix customers is Sberbank AST - biggest tender platform in Russia. They need to match goods from different suppliers there. We process about 2,000,000 SKUs in a month for them right now.
+
+We also have 200+ small and medium online stores and marketplaces as a customers at Miiix product.
+
+
+### Team
+
+Team of the project consist of 10 members of which three are founders, they worked with each other for years, which is a big positive moment for the project. Founders have great experience in the field of e-commerce which is the target field of Elementh project, their experience is not limited to [Miiix](http://miiix.org/), they also developed a platform for selling non-liquid stocks of retailers [Smallhorse](http://smallhorse.ru/) and some other products earlier.
+
+[Sergey Ryabov](https://www.linkedin.com/in/sergey-ryabov-20108765/), CEO<br />
+Since 2001, he has been creating online projects. Created and launched a number of online projects, among them the context advertising system, domain registrar, recommendation start-up and web-studio. All these products have been successfully sold to partners and other larger companies. After that, several online stores, [Prestigewheels](https://prestigewheels.ru/) and [Sportmanya](http://sportmanya.ru/) were launched, where the founders faced the problem of actuality of surplus and solved it by creating the project service [Miiix](http://miiix.org/).<br />
+He sold his stores and focused on the Miiix project. The project received the Startup of the Year 2013 Award in Russia and still exists. In 2017, the project is integrated with SAP Hybris to use the algorithms for product matching in major global marketplaces and retailers. In 2016, together with Dmitry Kostygin, the main shareholder of Ulmart, he created a platform for selling non-liquid surplus of retailers - [Smallhorse](http://smallhorse.ru/).
+
+[Dmitriy Bereznitskiy](https://www.linkedin.com/in/bdmitry/), CTO<br />
+Technical director and partner in projects [Miiix](http://miiix.org/) and [Smallhorse](http://smallhorse.ru/). Since 2006, he has been developing a system of affiliated stores to attract traffic to major marketplaces such as Amazon. Experience in commercial web development for more than 15 years, experience in e-commerce for more than 10 years. Managing development teams for more than 7 years. Evangelist of Agile methodology, Lean Startup and Theory of Constraints.
+
+[Vitaliy Mengeshev](https://www.linkedin.com/in/vitalii-mengeshev-aba47a14b/), COO<br />
+Executive Director and Partner in Miiix and Smallhorse projects. One of the lecturers in IdealMachine and Skolkovo startup acceleration programs. From 2002 to 2012, he created and was actively developing his own clothing brand. Starting in 2013, he joined the Miiix team and took over operational management and business development.
+
+[Aleksandr Vasilev](https://www.linkedin.com/in/aleksandr-vasilev-4bab3425/), Data Scientist<br />
+Aleksandr has extensive experience in developing systems for predictive analytics and data analysis in such areas as insurance, banking and e-commerce. In the company, Aleksandr successfully solves the problem of product matching from various data sources using the latest world developments in the field of machine learning.
+
+[Sergey Morozov](https://www.linkedin.com/in/sergey-morozov-aba83b80/), Backend Developer<br />
+Sergey has more than 7 years of experience in development. System architect and database administrator of various types. Experience in building highly loaded systems. Participated in the development of SAAS service for 800k + users. He was engaged in the development of a large number of systems for data processing: from systems for the work of copywriters to financial accounting systems. A longtime fan of blockchain technology.
+
+[Eugene Prigornitskiy](https://www.linkedin.com/in/evgeniy-prigornitskiy-67566077/), Backend Developer<br />
+10 years of commercial development. Participated in the development of payment systems, ERP, mobile applications (iOS, Android, Windows Phone). Experience in building highly loaded real-time systems. Has extensive experience in database
+development.
+
+[Roman Travnikov](https://www.linkedin.com/in/travnikovrn/), Frontend Developer<br />
+More than 6 years of commercial development. A rich list of implemented projects: from corporate sites, to portals of state corporations, ministries and large banks. The last year and a half has been working on projects Miiix and SmallHorse. Uses
+advanced technologies in development for maximum performance of services.
+
+[Sergey Miheev](https://www.linkedin.com/in/sergey-mikheev-54168a62/), System Administration<br />
+Started working with crypto-currencies and blockchain in 2016. Prior to that, Sergey worked as a technical expert on the implementation and support of ERP and databases on large production sites.
+
+[Peter Gashnitsky](https://www.linkedin.com/in/peter-gashitsky-b08553157/), UX/UI Designer<br />
+Experienced web and graphic designer and illustrator. His statement is «clean projects, clean design» Talks a lot and draws a lot. Prefers coffee.
+
+[Alexander Kholodnykh](https://www.linkedin.com/in/ni-moc-nideknil-www/), Backend Developer<br />
+Specialising in web crawling, processes automation, server tasks solving. As a member of the team is responsible for searching spider development and finding information about goods and prices. 9 years of commercial development background.
+
+
+### Advisors
+
+Elementh Project has advisors, which have huge experience as enterpreneurs and IT-business experts. The availability of such advisors will undoubtedly benefit the project.
+
+[Naveen Yannam](https://www.linkedin.com/in/naveen-yannam-1553a91/), Tech advisor and early contributor<br />
+Naveen is a Certified Hybris 5 Core and Commerce Developer. He has extensive experience in using various frameworks and libraries to implement enterprise class applications. He’s also a keen proponent of Agile methodologies and has successfully exercised agile techniques into the projects which he was involved. Naveen feels comfortable in working as a Hybris Technical Lead, ideally in a project team developing large scale ecommerce systems with practising Continuous Integration and Delivery methodologies.
+
+[Michael Averbach](https://www.linkedin.com/in/michael-averbach-40720b/), Financial advisor<br />
+20+ years in IT-business, serial enterpreneur, investor. Key expertise: creation of business structures, marketing and sales strategies, creation of mobile applications and mobile devices, electronic commerce and corporate software, as well as management of software development process. Co-founded Ectaco, Inc., (USA) – a leading developer of electronic translators and linguistic solutions, where was managing the sales network, comprised of 13 foreign sales offices and dozens of independent distributors around the world. Was the founder of MobiDealer, Inc, (USA), where managed creation of distributed ERP system software package. After successful launch of the system, the company was sold to a strategic investor.
+Co-founded DynoPlex, Inc., (USA). Grew the company from ground up to one of the largest developers of mobile applications. Successfully sold the company and transitioned to manage offshore development for the purchaser, Quickoffice, Inc. (USA), where managed work of two offshore centers for mobile application development, totalling 140 engineers. Company was subsequent sold to Google in 2012. After sale of Quickoffice, started a venture fund RSV Venture Partners and serves as a managing partner of startup-accelerator iDealMachine, where invests in
+companies at the very early stage.
+
+[Sergey Fradkov](https://www.linkedin.com/in/sfradkov/), Legal advisor<br />
+Sergey Fradkov is an experienced software visionary and investor with extensive technical and business backgrounds. Mr. Fradkov is a founder of iDealMachine – an early stage venture fund and startup accelerator that operates in St. Petersburg, Russia and currently is expanding nationally and internationally. Prior to that, Mr. Fradkov was a founder of several high-tech startups. His most recent venture, DynoPlex, was sold to a competitor, Quickoffice, in 2008 and Quickoffice itself was acquired by Google in 2012. Prior to that Mr. Fradkov co-founded w-Trade, a pioneering Wireless Applications company, where he raised over $40Mln and built the product that was sold to large financial institutions, such as Merrill Lynch, Fidelity, Morgan Stanley and others. Overall, he has over 25 years of experience developing and designing distributed, wireless and ecommerce systems and managing large product development teams. Mr. Fradkov graduated from Jerusalem University.
+
+
+### Market
+
+In 2016, the global retail e-commerce sales amounted to $1.915 trillion. They are
+expected to increase to $ 4.058 trillion.
+
+<p align="center">
+  <img width="550" height="388" src="images/worldwide_retail_e_commerce_sales.png">
+</p>
+
+The largest marketplace in the world is Amazon. Its revenue exceeded $125 billion in
+2016.
+
+<p align="center">
+  <img width="550" height="388" src="images/amazons_consolidated_net_revenue_by_segment.png">
+</p>
+
+The largest holding company in China is Alibaba Group.
+
+<p align="center">
+  <img width="550" height="388" src="images/net_revenue_of_alibaba.png">
+</p>
+
+Elementh Blockchain can be used by any marketplace and online store in the world for nomenclature standard and their system of goods. Ecommerce is a growing market in all countries and the popularity of decentralized marketplaces is a benefit for Elementh Foundation. If we'll partner with all new marketplaces, our blockchain can become a standard in ecommerce market.
+
+
+### Competitors
+
+The direct competitors of the project are the existing online B2B e-commerce projects, such as Indix. In this segment, the Elementh project is innovative use Blockchain and can be used by decentralized marketplaces that use cryptocurrencies for internal payments.
+Also there are some Blockchain platforms for Ecommerce as competitors for Elementh, for example the VeChain, INS Ecosystem, Connectius, Flipz, StopTheFakes etc. It’s interesting, that some of them are niche products, and all are not really infrastructure platforms but just something like applications for smart contracts for e-commerce.
+We think that Elementh is more infrastructure project and can be used by different marketplaces and platforms. Also, an important advantage for Elementh is a huge experience in B2B Ecommerce market since 2012 and working business with real customers already.
+Different marketplaces are also some kind of competitors for Elementh project, because they can be developed without Elementh and in this case they will work in the same market. It’s very important for Elementh team to get partnership with all current decentralized marketplaces that are already working or going to start soon.
+
+
+### Product
+
+The Elementh project has grown from [Miiix](http://miiix.org/) product which is being developed since 2012. As we found out Miiix is fully working business in Russia which have investments from RSV Venture Partners and business angels and solid partnerships, for example, with Sberbank AST and SAP Hybris and 200+ small and medium online stores and marketplaces.
+
+Miiix have several rewards:
+ * Winner of Startup of the Year 2013 from Higher School of Economics
+ * Winner of IT-startup Eurasia
+ * Winner of CloudsNN
+ * 2nd place of StartupCup
+ * Finalist of Bootcamp Ventures Innovation Xchange (iX), Tel Aviv
+ * Finalist of WebReady
+ * Finalist of MABA
+ * Finalist of VC Day Ingria
+ * Finalist of Zvorykin Prize
+ * Semifinalist of Startup World Barcelona
+ * Demifinalist of Mind the Bridge Trenro, Italy
 
 
 ### Conclusion
