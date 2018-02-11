@@ -97,7 +97,7 @@ Enfin, les codes-barres ne sont souvent pas entrés dans le système ERP par les
 
 ### Elementh
 <p align="center">
-  <img width="602" height="601" src="images/logotype.png">
+  <img width="602" height="601" src="images/img_elementh_fr.png">
 </p>
 L'objectif pour Elementh est de créer un protocole alternatif pour le développement d'applications décentralisées utilisées par le commerce électronique, fournissant une nomenclature standard de qualité, garantissant la propriété d'un produit spécifié et la capacité de créer des contrats intelligents spécialisés au commerce électronique.  Elementh y parviendra en créant une blockchain avec un langage de programmation intégré Turing-complet, permettant à chacun d'écrire des contrats intelligents et des applications décentralisées, permettant l'utilisation de cartes de produits, de transactions de commerce électronique et du transfert de propriété unifiés.
  
@@ -106,7 +106,7 @@ L'objectif pour Elementh est de créer un protocole alternatif pour le développ
  
 #### Système de marchandises
 <p align="center">
-  <img width="602" height="439" src="images/logotype.png">
+  <img width="602" height="439" src="images/img_systemofgoods_fr.png">
 </p>
 Avec le système de jetons, Elementh dispose d’un système de marchandises, qui peut également être utilisé dans un grand nombre d'applications, telles que suivi du mouvement d'un élément particulier depuis sa création au propriétaire actuel, suivi des marchandises originales et détection des contrefaçons.  Contrairement au système de jetons, le système de marchandises prévoit également la possibilité de « délivrer » un produit particulier à une adresse particulière, en indiquant toutes les données possibles de l'élément (comme le nom, le fabricant, le code à barres, etc.). Et si des marchandises identiques sont déjà présentes dans le blockchain, l'émetteur recevra un message à ce sujet, et il aura la possibilité d'indiquer le nombre d'articles de marchandises qu'il veut «délivrer».
  
@@ -177,7 +177,7 @@ IPFS devient un nouveau sous-système important du World Wide Web. Construit cor
 Jacques, propriétaire d'un petit commerce, a été informé sur la chaîne de blocs Elementh et sur les opportunités qu'elle offre. Jacques n'avait rien vendu sur Internet jusque-là. Ayant pris connaissance des nouvelles possibilités, il a décidé qu'il était temps d'essayer de vendre ses chaussures via la chaîne de blocs Elementh, en utilisant les applications spéciales pour vendeurs. L'installation d'un magasin s'est révélée être tout à fait simple et a pris quelques minutes.
 
 <p align="center">
-  <img width="460" height="650" src="images/logotype.png">
+  <img width="460" height="650" src="images/img_casestudy.png">
 </p>
 
 Après avoir relié son programme de comptabilité à l'application, Jacques a réussi à lui faire reconnaître le solde des stocks et à le lier à une nomenclature unique avec les bonnes cartes de marchandises et les données complètes sur les caractéristiques des produits. Les Informations sur les marchandises de Jacques sont immédiatement devenues disponibles à tous les membres du réseau Elementh. Stéphane a vu la disponibilité des bottes dont il avait besoin dans ce magasin, a immédiatement passé commande, et Jacques a reçu notification que Steve voulait acheter ses chaussures. L'argent du client est immédiatement transféré à un contrat intelligent, ce qui signifie que la commande est réelle. Ayant organisé la livraison des marchandises à Stéphane, Jacques retourne à son travail habituel au magasin. Aussitôt que les marchandises ont été livrées, l'argent a été transféré au compte de Jacques, ce qui signifie qu'il a pu investir le profit dans un nouveau produit quasi immédiatement.
@@ -303,21 +303,21 @@ En 2016, le commerce électronique au détail s’est élevé à 1915 milliards 
 devraient atteindre 4058 milliards de dollars.
 
 <p align="center">
-  <img width="550" height="388" src="images/logotype.png">
-</p>
+  <img width="550" height="388" src="images/worldwide_retail_e_commerce_sales.png">
+Chiffre d'affaires net en millions de yuans</p>
 
 Amazon est le plus grand marché au monde. Ses revenus ont dépassé 125 milliards de dollars en 
 2016.
 
 <p align="center">
-  <img width="550" height="388" src="images/logotype.png">
-</p>
+  <img width="550" height="388" src="images/amazons_consolidated_net_revenue_by_segment_fr.png">
+Chiffre d'affaires net en milliards de dollars américains</p>
 
 La plus grande société de portefeuille en Chine est le Groupe Alibaba.
 
 <p align="center">
-  <img width="550" height="388" src="images/logotype.png">
-</p>
+  <img width="550" height="388" src="images/net_revenue_of_alibaba.png">
+Chiffre d'affaires net en milliards de dollars américains</p>
 
 Elementh Blockchain peut être utilisé par n'importe quel marché et magasin en ligne dans le monde pour la nomenclature standard et le système de marchandises. Le commerce électronique est un marché en croissance dans tous les pays et la popularité des marchés décentralisés est un avantage pour la Fondation Elementh. Si nous nous associons à tous les nouveaux marchés, notre blockchain peut devenir une norme du marché du commerce électronique.
 
