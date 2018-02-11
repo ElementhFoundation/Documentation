@@ -303,21 +303,21 @@ En 2016, le commerce électronique au détail s’est élevé à 1915 milliards 
 devraient atteindre 4058 milliards de dollars.
 
 <p align="center">
-  <img width="550" height="388" src="images/worldwide_retail_e_commerce_sales.png">
-Chiffre d'affaires net en millions de yuans</p>
+  <img width="550" height="388" src="images/worldwide_retail_e_commerce_sales.png"></p>
+<p align="center">Revenu net en millions de yuans</p>
 
 Amazon est le plus grand marché au monde. Ses revenus ont dépassé 125 milliards de dollars en 
 2016.
 
 <p align="center">
-  <img width="550" height="388" src="images/amazons_consolidated_net_revenue_by_segment_fr.png">
-Chiffre d'affaires net en milliards de dollars américains</p>
+  <img width="550" height="388" src="images/amazons_consolidated_net_revenue_by_segment_fr.png"></p>
+<p align="center">Revenu net en milliards de dollars américains</p>
 
 La plus grande société de portefeuille en Chine est le Groupe Alibaba.
 
 <p align="center">
-  <img width="550" height="388" src="images/net_revenue_of_alibaba.png">
-Chiffre d'affaires net en milliards de dollars américains</p>
+  <img width="550" height="388" src="images/net_revenue_of_alibaba.png"></p>
+<p align="center">Ventes en milliards de dollars américains</p>
 
 Elementh Blockchain peut être utilisé par n'importe quel marché et magasin en ligne dans le monde pour la nomenclature standard et le système de marchandises. Le commerce électronique est un marché en croissance dans tous les pays et la popularité des marchés décentralisés est un avantage pour la Fondation Elementh. Si nous nous associons à tous les nouveaux marchés, notre blockchain peut devenir une norme du marché du commerce électronique.
 
