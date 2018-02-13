@@ -135,14 +135,14 @@ Goods in the system exist in a single copy and if an item with the same serial n
 #### Accounts
 
 Account is one of the basic objects in Elementh, it is used as identity of participants of the network. Each account has:
- * account balance of the internal cryptocurrency EEE;
+ * account balance of the internal currency EEE;
  * information about ownership of goods.
 
 All transactions in the blockchain is made by accounts.
 
 #### Transactions and messages
 
-Any action in the Elementh blockchain is called transaction. The most simple transactions is a transfer of EEE value between accounts and a define ownership for goods. Transaction can include structured message for receiver. Accounts may define scripts to handle messages when they are received. The combination of messages and automated scripts is a smart contract subsystem in Elementh.
+Any action in the Elementh blockchain is called transaction. The most simple transactions is a transfer of EEE tokens between accounts and a define ownership for goods. Transaction can include structured message for receiver. Accounts may define scripts to handle messages when they are received. The combination of messages and automated scripts is a smart contract subsystem in Elementh.
 
 #### Blockchain
 
@@ -162,7 +162,7 @@ The blockchain that will use the Elementh software will be awarded with new toke
 
 #### The System of Tokens
 
-The system of tokens can be used in a huge number of applications from binding to assets such as USD or gold to company shares. The system of tokens is easy to implement in the Elementh blockchain. In order to better understand what a token system is, you can imagine a database with only one operation: take X units from A and transfer them to B, under the following conditions, 1) A has at least X units before the transaction is made and 2) the transaction is confirmed by A. What is necessary to implement this system is the implementation of a smart contract with the above logic.
+The system of tokens can be used in a huge number of applications. The system of tokens is easy to implement in the Elementh blockchain. In order to better understand what a token system is, you can imagine a database with only one operation: take X units from A and transfer them to B, under the following conditions, 1) A has at least X units before the transaction is made and 2) the transaction is confirmed by A. What is necessary to implement this system is the implementation of a smart contract with the above logic.
 
 #### Decentralized Goods Data Storage
 
@@ -201,12 +201,12 @@ In general, there are two types of applications built on top of Elementh. The fi
  
 #### Currency and Issue
 
-Elementh blockchain has its own built-in currency, elementh (EEE), which serves two purposes, firstly, it is to provide a primary level of liquidity, which in turn ensures an efficient exchange between different types of digital assets, and, secondly, more importantly, for payment of transaction fees.
+Elementh blockchain has its own built-in currency, elementh (EEE), which is used for all operations inside the Elementh blockchain, for example, payment of transaction fees.
 
 Token and ICO information: EEE, ERC-20 standard<br />
 Total supply: 303 000 000 EEE<br />
 Token distribution:<br />
-217 500 000 (71,78%) EEE - investors<br />
+217 500 000 (71,78%) EEE - purchasers<br />
 45 000 000 (14,85%) EEE - team<br />
 40 500 000 (13,37%) EEE - partners and advisors<br />
 <br />
