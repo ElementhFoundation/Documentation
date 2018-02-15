@@ -224,8 +224,8 @@ Hard cap de pré-ICO : 1 500 ETH moins reçu en prévente privée<br />
 Prix pré-ICO : 1 EEE = 0.0001 ETH<br />
 Programme de bonus ICO : 1er jour : 30 % jetons, 2ème jour : 15 % jetons<br />
 <br />
-Date de début d'ICO : 1 mars 2018 00:00 UTC<br />
-Date de fin d'ICO : 31 mars 2018 23:59 UTC<br />
+Date de début d'ICO : 1 avril 2018 00:00 UTC<br />
+Date de fin d'ICO : 30 avril 2018 23:59 UTC<br />
 Plafond souple ICO : 10 000 ETH<br />
 Montant maximum de fonds à assembler en ICO : 30 000 ETH<br />
 Prix ICO : 1 EEE = 0.0002 ETH<br />
