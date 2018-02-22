@@ -15,3 +15,9 @@
 - [Hindi](ElementhWhitepaperHindi.pdf)
 
 - [Vietnamese](ElementhWhitepaperVietnamese.pdf)
+
+- [Italian](ElementhWhitepaperItalian.pdf)
+
+- [Chinease](ElementhWhitepaperChinease.pdf)
+
+- [Hindi](ElementhWhitepaperHindi.pdf)
