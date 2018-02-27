@@ -21,3 +21,5 @@
 - [Chinease](ElementhWhitepaperChinease.pdf)
 
 - [Hindi](ElementhWhitepaperHindi.pdf)
+
+- [Arabic](ElementhWhitepaperArabic.pdf)
