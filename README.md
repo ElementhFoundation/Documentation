@@ -18,7 +18,7 @@
 
 - [Italian](ElementhWhitepaperItalian.pdf)
 
-- [Chinease](ElementhWhitepaperChinease.pdf)
+- [Chinese](ElementhWhitepaperChinese.pdf)
 
 - [Hindi](ElementhWhitepaperHindi.pdf)
 
