@@ -1,25 +1,25 @@
 # Elementh White Paper
 
-- [English](ElementhWhitepaperEN.md)
+- [English v1](ElementhWhitepaperEN.md)
 
-- [French](ElementhWhitepaperFR.md)
+- [French v1](ElementhWhitepaperFR.md)
 
-- [Japanese](ElementhWhitepaperJapanese.pdf)
+- [Japanese v1](ElementhWhitepaperJapanese.pdf)
 
-- [Korean](ElementhWhitepaperKorean.pdf)
+- [Korean v1](ElementhWhitepaperKorean.pdf)
 
-- [Spanish](ElementhWhitepaperSpanish.pdf)
+- [Spanish v1](ElementhWhitepaperSpanish.pdf)
 
-- [Portuguese](ElementhWhitepaperPortuguese.pdf)
+- [Portuguese v1](ElementhWhitepaperPortuguese.pdf)
 
-- [Hindi](ElementhWhitepaperHindi.pdf)
+- [Hindi v1](ElementhWhitepaperHindi.pdf)
 
-- [Vietnamese](ElementhWhitepaperVietnamese.pdf)
+- [Vietnamese v1](ElementhWhitepaperVietnamese.pdf)
 
-- [Italian](ElementhWhitepaperItalian.pdf)
+- [Italian v1](ElementhWhitepaperItalian.pdf)
 
-- [Chinese](ElementhWhitepaperChinese.pdf)
+- [Chinese v1](ElementhWhitepaperChinese.pdf)
 
-- [Hindi](ElementhWhitepaperHindi.pdf)
+- [Hindi v1](ElementhWhitepaperHindi.pdf)
 
-- [Arabic](ElementhWhitepaperArabic.pdf)
+- [Arabic v1](ElementhWhitepaperArabic.pdf)
