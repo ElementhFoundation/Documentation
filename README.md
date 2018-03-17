@@ -1,7 +1,6 @@
 # Elementh White Paper
 
-- [English v2 pdf](ElementhWhitepaperEN_v.2.pdf)
-- [English v2 md](ElementhWhitepaperEN_v.2.md)
+- [English v2 md](ElementhWhitepaperEN_v.2.md) / [English v2 pdf](ElementhWhitepaperEN_v.2.pdf)
 
 - [English v1](ElementhWhitepaperEN.v.1.md)
 
