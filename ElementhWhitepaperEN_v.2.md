@@ -444,6 +444,7 @@ ICO price: 1 EEE = 0.0002 ETH<br />
 ICO bonus scheme: 1st day: 30% Tokens, 2nd day: 15% Tokens<br />
 There is no minimum or maximum amount to participate in the ICO stage.<br />
 Tokens will be distributed at the moment of purchase in the ICO stage.
+All unsold tokens from ICO stage will be burned.
 
 
 Details:
